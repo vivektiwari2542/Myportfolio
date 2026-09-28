@@ -70,7 +70,7 @@ I am passionate about **Web Development, Programming, Cloud Computing and DevOps
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,"/>
 </p>
 
 ### 🌐 Web Development
@@ -134,7 +134,7 @@ A Python-based library management project for managing books and records.
 </p>
 
 <p align="center">
-<a href="https://github.com/vivektiwari2542">
+<a href="https://github.com/vivektiwari2542/library_management_system_v1.0">
 <img src="https://img.shields.io/badge/View%20Project-2C5364?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -212,18 +212,6 @@ Worked on practical frontend development tasks involving:
 
 ---
 
-### 💻 C++ Programming Virtual Intern
-**CodSoft**
-
-Worked on C++ programming tasks and improved:
-
-- Programming fundamentals
-- Logical thinking
-- Problem solving
-- Object-oriented programming concepts
-
----
-
 # 📜 Certifications & Badges
 
 <p align="center">
@@ -244,13 +232,12 @@ Worked on C++ programming tasks and improved:
 
 <div align="center">
 
-| 🌐 Web Development | ☁️ Cloud & DevOps |
-|:---:|:---:|
-| HTML | Linux |
-| CSS | Git & GitHub |
-| JavaScript | Bash |
-| React | Docker |
-| Responsive Design | Cloud Fundamentals |
+| 🌐 Web Development | 
+|:---:|
+| HTML | 
+| CSS  |
+| JavaScript | 
+| Responsive Design | 
 
 </div>
 
@@ -261,15 +248,11 @@ Worked on C++ programming tasks and improved:
 ```text
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
-│  🚀 Build real-world projects                       │
-│                                                     │
-│  💻 Become a skilled Software Developer             │
-│                                                     │
-│  ☁️ Build strong Cloud & DevOps knowledge           │
+│  🚀 Build real-world projects                       |
 │                                                     │
 │  🐙 Contribute to GitHub & Open Source              │
 │                                                     │
-│  📚 Learn new technologies continuously              │
+│  📚 Learn new technologies continuously             |
 │                                                     │
 │  💼 Build a successful career in IT                 │
 │                                                     │
