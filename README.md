@@ -45,10 +45,8 @@ I am passionate about **Web Development, Programming, Cloud Computing and DevOps
 
 - 🎓 Pursuing **B.Sc. Information Technology**
 - 🌐 Learning **Frontend Web Development**
-- ☁️ Exploring **Cloud & DevOps**
 - 🐍 Practicing **Python**
 - ⚡ Practicing **C & C++**
-- 🗄️ Learning **MySQL & MongoDB**
 - 🐙 Using **Git & GitHub** for project management
 - 📚 Continuously improving my technical skills
 - 🚀 Building projects to gain real-world experience
