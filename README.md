@@ -74,7 +74,7 @@ I am passionate about **Web Development, Programming, Cloud Computing and DevOps
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,"/>
 </p>
 
 
@@ -82,7 +82,7 @@ I am passionate about **Web Development, Programming, Cloud Computing and DevOps
 ### 🔧 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,"/>
 </p>
 
 ---
