@@ -2,7 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vivek%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20IT%20Student%20%7C%20Web%20Developer%20%7C%20Cloud%20%26%20DevOps%20Learner&descAlignY=58&descSize=18"/>
-
 </div>
 
 <h1 align="center">
@@ -12,10 +11,6 @@
 <h3 align="center">
   💻 B.Sc. Information Technology Student from Mumbai, India 🇮🇳
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;Python+%7C+C%2B%2B+Learner;Cloud+%26+DevOps+Enthusiast;Building+Projects+%26+Learning+Every+Day;Turning+Ideas+Into+Projects+🚀"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/vivektiwari2542">
