@@ -79,17 +79,7 @@ I am passionate about **Web Development, Programming, Cloud Computing and DevOps
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
 </p>
 
-### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker"/>
-</p>
 
 ### 🔧 Development Tools
 
